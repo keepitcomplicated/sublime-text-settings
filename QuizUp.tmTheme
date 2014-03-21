@@ -1219,6 +1219,17 @@ variable.other.stylus, variable.other.property.stylus, meta.function-call.stylus
 				<string>#fdbe2c</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS: Function</string>
+			<key>scope</key>
+			<string>storage.type.function.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#fdbe2c</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>ba649a03-b2fb-46e8-9ad1-20b4f2307448</string>
